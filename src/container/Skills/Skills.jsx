@@ -22,7 +22,6 @@ const Skills = () => {
       setSkills(data);
     });
   }, []);
-  console.log(experiences);
   
 
   return (
