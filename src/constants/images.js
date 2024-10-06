@@ -54,8 +54,10 @@ import vishnu from '../assets/vishnuprofile.png'
 import mainlogo from '../assets/logomain.png'
 import profilemain from "../assets/Remove-bg.ai_1724650733575.png"
 import mail from "../assets/mail.png"
+import mainprofile from "../assets/file (1).png"
 
 export default {
+  mainprofile,
   mail,
   profilemain,
   uiux,mern,frontend,backend,gitgithub,reactnative,figma1,java,mainlogo,
